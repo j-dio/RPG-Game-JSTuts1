@@ -1,2 +1,1 @@
-# RPG-Game-JSTuts1
-RPG Game that taught me JS basics
+This is a project from a FCC tutorial about JS Basics.
